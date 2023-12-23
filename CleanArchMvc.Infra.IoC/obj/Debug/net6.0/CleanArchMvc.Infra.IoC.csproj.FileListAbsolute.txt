@@ -17,3 +17,5 @@ C:\Users\jeanv\Documents\Projetos\Udemy\CleanArchitecture\CleanArchMvc\CleanArch
 C:\Users\jeanv\Documents\Projetos\Udemy\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\refint\CleanArchMvc.Infra.IoC.dll
 C:\Users\jeanv\Documents\Projetos\Udemy\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.pdb
 C:\Users\jeanv\Documents\Projetos\Udemy\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Users\jeanv\Documents\Projetos\Udemy\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net6.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+C:\Users\jeanv\Documents\Projetos\Udemy\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
