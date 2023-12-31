@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QhYxL0gt46rvmc0374AWSiPvdmOo5IqJ2vzfDkU0lRKIwjVe+9rHWi7ISKGSdzwjynyTGU5adeISXIfVXCg9NA==",
+  "dgSpecHash": "FGTitmU6/gPbVXCG4eD3SYrk7HaaA3QcV18ugcZ4EDMvllcG06pQXJU37FGtK2LyrQPRJrAHO5el5r0SCwFhug==",
   "success": true,
   "projectFilePath": "C:\\Users\\jeanv\\Documents\\Projetos\\Udemy\\CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jeanv\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\jeanv\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\jeanv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
