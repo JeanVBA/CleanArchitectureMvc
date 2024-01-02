@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "BtZ2mX/EzjGBnl0debwVEaQpHwH3Gl7n67pFqvdRojTvykhhJtY8wFe81DEQzYy2r19rdawB8FW9qus/rIf5EA==",
+  "dgSpecHash": "yR7ljv1Pc4U0qt+2nNOMQLMKi7k36sEQY8E4XZnLM0gF3yEXwD/g3M18ew5D3zdPdnu2SCUbiwTwVAwwj4LsWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jeanv\\Documents\\Projetos\\Udemy\\CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeanv\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\jeanv\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\jeanv\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
