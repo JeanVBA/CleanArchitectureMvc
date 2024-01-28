@@ -1,4 +1,5 @@
-﻿using CleanArchMvc.Infra.IoC;
+﻿using CleanArchMvc.Domain.Account;
+using CleanArchMvc.Infra.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -29,7 +30,7 @@ namespace CleanArchMvc.WebUI
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ISeedUserRoleInitical seedUserRoleInitical)
         {
             if (env.IsDevelopment())
             {
@@ -46,13 +47,17 @@ namespace CleanArchMvc.WebUI
 
             app.UseRouting();
 
+            seedUserRoleInitical.SeedRoles();
+            seedUserRoleInitical.SeedUsers();
+
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Products}/{action=Index}/{id?}");
+                    pattern: "{controller=Account}/{action=Login}/{id?}");
             });
         }
     }
